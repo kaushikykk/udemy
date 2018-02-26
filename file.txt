@@ -1,0 +1,1 @@
+A command line argument is nothing but an argument sent to a program being called. A program can take any number of command line arguments. For example, type the following command:
